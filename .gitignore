@@ -1,0 +1,8 @@
+__pycache__
+.env
+.pptx
+.venv/
+alembic/__pycache__/
+alembic/versions/
+.log
+.pytest_cache/
