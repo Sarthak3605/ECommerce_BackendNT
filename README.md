@@ -10,7 +10,7 @@ This is a complete E-commerce Backend API built using **FastAPI**, **SQLAlchemy*
 - **Logging**: Python `logging` module
 - **Email**: BackgroundTasks + SMTP
 - **API Docs**: Swagger (via FastAPI)
-- **Server **: Uvicorn
+- **Server**: Uvicorn
 
 ## Features
 -  User Signup, Login (JWT Token)
