@@ -24,22 +24,8 @@ This is a complete E-commerce Backend API built using **FastAPI**, **SQLAlchemy*
 -  Token-Based Security
 -  Error Handling with HTTP codes
 
-## 
-Project Structure
-
-ecommerce-backend/
-│
-├── app/
-│ ├── auth/ # Signup, Login, Token, Password Reset
-│ ├── cart/ # Cart APIs
-│ ├── orders/ # Checkout, Order History
-│ ├── products/ # Admin Product CRUD
-│ ├── core/ # DB, Config, Logging, Email
-│ └── main.py # FastAPI app entry
-│
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # Git ignore rules
+## Project Structure
+<pre> ``` ecommerce-backend/ │ ├─ app/ │ ├─ auth/ # Signup, Login, Token, Password Reset │ ├─ cart/ # Cart APIs │ ├─ orders/ # Checkout, Order History │ ├─ products/ # Admin Product CRUD │ ├─ core/ # DB, Config, Logging, Email │ └─ main.py # FastAPI app entry point │ ├─ requirements.txt # Python dependencies ├─ README.md # Project documentation └─ .gitignore # Git ignore rules ``` </pre>
 
 ##  Authentication & Authorization
 
